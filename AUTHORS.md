@@ -1,0 +1,25 @@
+# Development Team
+1.  Agarkov Yury
+2.  Akulov Evgeny
+3.  Anikonov Anatoly
+4.  Boiko Pavel
+5.  Dmitriev Vadim
+6.  Gerasimov Sergey
+7.  Grinin Evgeny
+8.  Gubanov Maxim
+9.  Kucherov Alexander
+10. Kustova Anna
+11. Lededev Arseny
+12. Lyshkov Mikhail
+13. Nesterov Viktor
+14. Petrov Mikhail
+15. Shadrin Denis
+16. Shalyt Vladimir
+17. Spirkov Alexey
+18. Straystar Alexander
+19. Timoshenko Nikolay
+20. Tonkov Konstnantin
+21. Tretyakov German
+22. Turkin Sergey
+23. Yusupov Andrey
+ 
